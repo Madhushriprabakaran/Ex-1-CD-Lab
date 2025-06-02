@@ -1,3 +1,6 @@
+# Name:Madhushri P
+# Reg no: 212224040178
+# Date:21.02.2025
 # Ex-1 IMPLEMENTATION-OF-SYMBOL-TABLE
 # AIM :
 To Write a C program to implement a symbol table.
